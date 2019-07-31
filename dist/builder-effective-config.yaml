@@ -1,0 +1,7 @@
+directories:
+  output: dist
+  buildResources: build
+appId: fanoykaka
+mac:
+  category: game
+electronVersion: 6.0.0
